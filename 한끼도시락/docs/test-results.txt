@@ -1,0 +1,12 @@
+test_boundary (test_core.CoreTests.test_boundary) ... ok
+test_cancel (test_core.CoreTests.test_cancel) ... ok
+test_csv (test_core.CoreTests.test_csv) ... ok
+test_invalid (test_core.CoreTests.test_invalid) ... ok
+test_quantity_only (test_core.CoreTests.test_quantity_only) ... ok
+test_states (test_core.CoreTests.test_states) ... ok
+test_totals (test_core.CoreTests.test_totals) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK
